@@ -1,1 +1,2 @@
 added new line
+Here comes new line in this file
